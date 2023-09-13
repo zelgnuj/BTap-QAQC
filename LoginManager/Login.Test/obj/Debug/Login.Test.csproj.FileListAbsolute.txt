@@ -1,0 +1,10 @@
+D:\. UEH\QAQC\LoginManager\Login.Test\bin\Debug\Login.Test.dll
+D:\. UEH\QAQC\LoginManager\Login.Test\bin\Debug\Login.Test.pdb
+D:\. UEH\QAQC\LoginManager\Login.Test\bin\Debug\Login.Core.dll
+D:\. UEH\QAQC\LoginManager\Login.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\. UEH\QAQC\LoginManager\Login.Test\bin\Debug\Login.Core.pdb
+D:\. UEH\QAQC\LoginManager\Login.Test\obj\Debug\Login.Test.csproj.AssemblyReference.cache
+D:\. UEH\QAQC\LoginManager\Login.Test\obj\Debug\Login.Test.csproj.CoreCompileInputs.cache
+D:\. UEH\QAQC\LoginManager\Login.Test\obj\Debug\Login.Test.csproj.CopyComplete
+D:\. UEH\QAQC\LoginManager\Login.Test\obj\Debug\Login.Test.dll
+D:\. UEH\QAQC\LoginManager\Login.Test\obj\Debug\Login.Test.pdb

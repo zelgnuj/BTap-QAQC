@@ -1,0 +1,8 @@
+D:\. UEH\QAQC\LoginManager\Login.Core\bin\Debug\Login.Core.dll
+D:\. UEH\QAQC\LoginManager\Login.Core\bin\Debug\Login.Core.pdb
+D:\. UEH\QAQC\LoginManager\Login.Core\bin\Debug\Login.Core.dll.CodeAnalysisLog.xml
+D:\. UEH\QAQC\LoginManager\Login.Core\bin\Debug\Login.Core.dll.lastcodeanalysissucceeded
+D:\. UEH\QAQC\LoginManager\Login.Core\obj\Debug\Login.Core.csproj.CoreCompileInputs.cache
+D:\. UEH\QAQC\LoginManager\Login.Core\obj\Debug\Login.Core.dll
+D:\. UEH\QAQC\LoginManager\Login.Core\obj\Debug\Login.Core.pdb
+D:\. UEH\QAQC\LoginManager\Login.Core\obj\Debug\Login.Core.csproj.AssemblyReference.cache

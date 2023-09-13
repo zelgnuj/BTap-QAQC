@@ -1,0 +1,14 @@
+D:\. UEH\QAQC\LoginManager\Login.WinForm\bin\Debug\Login.WinForm.exe.config
+D:\. UEH\QAQC\LoginManager\Login.WinForm\bin\Debug\Login.WinForm.exe
+D:\. UEH\QAQC\LoginManager\Login.WinForm\bin\Debug\Login.WinForm.pdb
+D:\. UEH\QAQC\LoginManager\Login.WinForm\bin\Debug\Login.Core.dll
+D:\. UEH\QAQC\LoginManager\Login.WinForm\bin\Debug\Login.Core.pdb
+D:\. UEH\QAQC\LoginManager\Login.WinForm\obj\Debug\Login.WinForm.csproj.AssemblyReference.cache
+D:\. UEH\QAQC\LoginManager\Login.WinForm\obj\Debug\Login.WinForm.csproj.SuggestedBindingRedirects.cache
+D:\. UEH\QAQC\LoginManager\Login.WinForm\obj\Debug\Login.WinForm.Form1.resources
+D:\. UEH\QAQC\LoginManager\Login.WinForm\obj\Debug\Login.WinForm.Properties.Resources.resources
+D:\. UEH\QAQC\LoginManager\Login.WinForm\obj\Debug\Login.WinForm.csproj.GenerateResource.cache
+D:\. UEH\QAQC\LoginManager\Login.WinForm\obj\Debug\Login.WinForm.csproj.CoreCompileInputs.cache
+D:\. UEH\QAQC\LoginManager\Login.WinForm\obj\Debug\Login.WinForm.csproj.CopyComplete
+D:\. UEH\QAQC\LoginManager\Login.WinForm\obj\Debug\Login.WinForm.exe
+D:\. UEH\QAQC\LoginManager\Login.WinForm\obj\Debug\Login.WinForm.pdb
